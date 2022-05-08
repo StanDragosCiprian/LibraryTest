@@ -1,0 +1,1 @@
+alter table log add column image varchar(200);

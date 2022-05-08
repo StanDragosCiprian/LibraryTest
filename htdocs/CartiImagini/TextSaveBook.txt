@@ -1,0 +1,190 @@
+Titlu:Cel mai bogat om din Babilon
+Autor: George S. Clason
+Categoria: Dezvoltare Profesionala
+Editura: AMALTEA
+An aparitie: 2004
+
+CartiImagini/
+
+Titlu:Start in antreprenoriat
+Autor: Cristian Onetiu
+Categoria: Dezvoltare Profesionala
+Editura: ACT SI POLITON
+An aparitie: 2019
+
+
+Titlu:Bitcoin. Libertate, finante, viitor
+Autor: Timi Ajiboye
+Categoria: Dezvoltare Profesionala
+Editura: HUMANITAS
+An aparitie: 2021
+
+Titlu:Ghid de investitii
+Autor: Robert T. Kiyosaki
+Categoria: Dezvoltare Profesionala
+Editura:CURTEA VECHE
+An aparitie: 2021
+
+Titlu:Regula fara reguli. Netflix si cultura reinventarii
+Autor: Reed Hastings, Erin Meyer
+Categoria: Marekting
+Editura:CREATOR
+An aparitie: 2021
+
+Titlu:Managementul afacerilor
+Autor: Gabriel I. Nastase
+Categoria:Marekting
+Editura:PRO UNIVERSITARIA
+An aparitie: 2021
+
+Titlu:Codul penal si Codul de procedura penala. Ianuarie 2022
+Autor: Dan Lupascu
+Categoria:Legislatie
+Editura:UNIVERSUL JURIDIC
+An aparitie: 2022
+
+
+Titlu:Constitutia Romaniei si legislatie conexa Ed.2022
+Autor:* * *
+Categoria:Legislatie
+Editura:UNIVERSUL JURIDIC
+An aparitie: 2022
+
+Titlu:Codul penal. Codul de procedura penala. Legile de executare. Act. 07.01.2022
+Autor:* * *
+Categoria:Legislatie
+Editura:HAMANGIU
+An aparitie: 2022
+
+Titlu:Codul de procedura civila. Ianuarie 2022
+Autor:Dan Lupascu
+Categoria:Legislatie
+Editura:UNIVERSUL JURIDIC
+An aparitie: 2022
+
+Titlu:500 de adevaruri uimitoare si amuzante
+Autor:* * *
+Categoria:Atlase, enciclopedii copii
+Editura:PARALELA 45
+An aparitie: 2019
+
+Titlu:Creionel 5-6 ani. Caiet de exercitii grafice
+Autor:* * *
+Categoria:Carte Prescolara, Joc
+Editura:DIANA
+An aparitie: 2019
+
+Titlu:Jocuri pentru copii inteligenti. Carte de activitati +3 ani
+Autor:* * *
+Categoria:Carti cu activitati
+Editura:ARAMIS
+An aparitie: 2019
+
+Titlu:Matilda
+Autor:Roald Dahl
+Categoria:Literatura Universala
+Editura:GRUPUL EDITORIAL ART
+An aparitie: 2021
+
+Titlu:Micul Print
+Autor:Antoine de Saint-Exupery
+Categoria:Literatura Universala
+Editura:LITERA
+An aparitie: 2018
+
+Titlu:Programarea in limbajul C si C++ pentru liceu 
+Autor:Emanuela Cerchez, Marinel Serban
+Categoria:Hardware
+Editura:POLIROM
+An aparitie: 2018
+
+Titlu:Java de la 0 la expert 
+Autor:Stefan Tanasa, Cristian Olaru, Stefan Andrei
+Categoria:Software
+Editura:POLIROM
+An aparitie: 2011
+
+Titlu:Programarea placii Arduino
+Autor:Traian Anghel
+Categoria:Software
+Editura:PARALELA 45
+An aparitie: 2020
+
+Titlu:Prietenul Meu, Calculatorul
+Autor:Ovidiu Ionel Lica, Mihaela Lica
+Categoria:Software
+Editura:AIUS
+An aparitie: 2020
+
+Titlu:Sfarsitul soaptelor. Decembrie 1989
+Autor:Ruta Sepetys
+Categoria:Romane istorice
+Editura:EPICA
+An aparitie: 2022
+
+Titlu:Sapiens. Scurta istorie a omenirii
+Autor:Yuval Noah Harari
+Categoria: Istorie Universala
+Editura:POLIROM
+An aparitie: 2017
+
+Titlu:Seful Mossadului
+Autor:Shabtai Shavit
+Categoria: Istorie Universala
+Editura:LITERA
+An aparitie: 2021
+
+Titlu:Urzeala tronurilor. Seria Cantec de gheata si foc.
+Autor:George R.R. Martin
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2020
+
+Titlu:Incleștarea regilor
+Autor:George R.R. Martin
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2020
+
+Titlu:Iuresul sabiilor
+Autor:George R.R. Martin
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2020
+
+
+Titlu:Ultima dorinta
+Autor:Andrzej Sapkowski
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2019
+
+Titlu:Sangele elfilor
+Autor:Andrzej Sapkowski
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2019
+
+Titlu:Sangele elfilor
+Autor:Andrzej Sapkowski
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2019
+
+Titlu:Turnul randunicii
+Autor:Stephen King
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2021
+
+Titlu:Shining
+Autor:Stephen King
+Categoria:SF & Fantasy
+Editura:NEMIRA
+An aparitie: 2021
+
+Titlu:Ugly Love. Despre fata urata a iubirii
+Autor:Colleen Hoover
+Categoria:Literatura Universala
+Editura:EPICA
+An aparitie: 2016
