@@ -13,9 +13,6 @@ error_reporting(0);
 $image=$_SESSION['img'];
 $id=0;
 $id= $_SESSION['id'];
-
-	echo $id;
-
 if($id==0){
 echo "<div id=\"headi\">
 <a href=\"FirstPage.php\"><img src=\"Logo.svg\" alt=\"Logo\" id=\"biblog\"></a>

@@ -13,9 +13,6 @@ include "bookselect.php";
 error_reporting(0);
 $image=$_GET['img'];
 $logid= $_GET['id'];
-
-	echo $logid;
-
 if($logid==0){
 echo "<div id=\"headi\">
 <a href=\"FirstPage.php\"><img src=\"Logo.svg\" alt=\"Logo\" id=\"biblog\"></a>

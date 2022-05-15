@@ -9,7 +9,21 @@
 <body id="profImg">
 <?php
 include "signinconect.php";
-
+$image=$_SESSION['img'];
+$id=0;
+$id= $_SESSION['id'];
+if($id==0){
+echo "<div id=\"headi\">
+<a href=\"FirstPage.php\"><img src=\"Logo.svg\" alt=\"Logo\" id=\"biblog\"></a>
+<p id=\"login\"><a href=\"sigin.php\">Log In</a></p>
+<p id=\"signin\"><a href=\"login.php\">Sign In</a></p>
+</div>";
+}else{
+echo "<div id=\"headi\">
+<a href=\"FirstPage.php\"><img src=\"Logo.svg\" alt=\"Logo\" id=\"biblog\"></a>
+<a href=\"Profil.php\"><img src=\"$image\"id=\"ProfileIncon\"></a>
+</div>";
+}
 $numez= $_SESSION['Name'];
 $penz=$_SESSION['Pren'];
 $emailz=$_SESSION['E-mail'];
@@ -26,11 +40,6 @@ if (mysqli_query($conn, $sql)) {
 
 ?>
 
-<div id="headi">
-<a href="FirstPage.php"><img src="Logo.svg" alt="Logo" id="biblog"></a>
-<p id="login"><a href="http://localhost/sigin.php">Log In</a></p>
-<p id="signin"><a href="http://localhost/login.php">Sign In</a></p>
-</div>
 
 <div id="profzon">
  <div class="cend">
